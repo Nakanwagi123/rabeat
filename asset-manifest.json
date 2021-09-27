@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rabeat/static/css/main.a617e044.chunk.css",
+    "main.js": "/rabeat/static/js/main.d44a4aa8.chunk.js",
+    "main.js.map": "/rabeat/static/js/main.d44a4aa8.chunk.js.map",
+    "runtime-main.js": "/rabeat/static/js/runtime-main.f43458f6.js",
+    "runtime-main.js.map": "/rabeat/static/js/runtime-main.f43458f6.js.map",
+    "static/js/2.b83f65cb.chunk.js": "/rabeat/static/js/2.b83f65cb.chunk.js",
+    "static/js/2.b83f65cb.chunk.js.map": "/rabeat/static/js/2.b83f65cb.chunk.js.map",
+    "static/js/3.fd27f535.chunk.js": "/rabeat/static/js/3.fd27f535.chunk.js",
+    "static/js/3.fd27f535.chunk.js.map": "/rabeat/static/js/3.fd27f535.chunk.js.map",
+    "index.html": "/rabeat/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/rabeat/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b83f65cb.chunk.js.LICENSE.txt": "/rabeat/static/js/2.b83f65cb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rabeat/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f43458f6.js",
+    "static/js/2.b83f65cb.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d44a4aa8.chunk.js"
+  ]
+}
